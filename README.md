@@ -1,6 +1,6 @@
 # 2020 Complete Python Bootcamp: From Zero to Hero in Python
 
-Some of the cool projects I completed as part of the online course with Jose Portilla
+Some of the cool projects I completed as part of the Udemy online course with Jose Portilla
 
 1. Tic Tac Toe Game
 2. BlackJack Game
